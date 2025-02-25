@@ -15,7 +15,7 @@
 
 ### 数据库
 
--[高性能MySQL](https://github.com/binarycoder777/perosonal-book/blob/main/book/%E9%AB%98%E6%80%A7%E8%83%BDMySQL(%E7%AC%AC3%E7%89%88)%20(%20etc.)%20(Z-Library).pdf)
+- [高性能MySQL](https://github.com/binarycoder777/perosonal-book/blob/main/book/%E9%AB%98%E6%80%A7%E8%83%BDMySQL(%E7%AC%AC3%E7%89%88)%20(%20etc.)%20(Z-Library).pdf)
 - [MySQL技术内幕：InnoDB存储引擎](https://github.com/binarycoder777/perosonal-book/blob/main/book/MySQL%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%EF%BC%9AInnoDB%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E(%E7%AC%AC2%E7%89%88)%20(%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6)%20(%E5%A7%9C%E6%89%BF%E5%B0%A7)%20(Z-Library).epub")
 
 
