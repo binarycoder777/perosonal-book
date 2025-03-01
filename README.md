@@ -5,19 +5,29 @@
 ## 技术类
 
 ### 编程基础
-- [编码隐藏在计算机软硬件背后的语言](https://github.com/binarycoder777/perosonal-book/blob/main/book/%E7%BC%96%E7%A0%81%20%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80%20(%5B%E7%BE%8E%5D%20Charles%20Petzold)%20.pdf)
+- [编码：隐藏在计算机软硬件背后的语言](https://github.com/binarycoder777/perosonal-book/blob/main/book/%E7%BC%96%E7%A0%81%20%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80%20(%5B%E7%BE%8E%5D%20Charles%20Petzold)%20.pdf)
 - [编程珠玑（第2版·修订版）](https://github.com/binarycoder777/perosonal-book/blob/main/book/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%EF%BC%88%E7%AC%AC2%E7%89%88%C2%B7%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%89%20(%5B%E7%BE%8E%5D%E4%B9%94%E6%81%A9%C2%B7%E6%9C%AC%E7%89%B9%E5%88%A9%EF%BC%88Jon%20Bentley%EF%BC%89%20%E8%91%97)%20(Z-Library).pdf)
+- [智慧的疆界：从图灵机到人工智能](https://github.com/binarycoder777/perosonal-book/blob/main/book/%E6%99%BA%E6%85%A7%E7%9A%84%E7%96%86%E7%95%8C%EF%BC%9A%E4%BB%8E%E5%9B%BE%E7%81%B5%E6%9C%BA%E5%88%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20(%E5%91%A8%E5%BF%97%E6%98%8E)%20(Z-Library).epub)
+- [UNIX传奇：历史与回忆](https://github.com/binarycoder777/perosonal-book/blob/main/book/UNIX%E4%BC%A0%E5%A5%87%EF%BC%9A%E5%8E%86%E5%8F%B2%E4%B8%8E%E5%9B%9E%E5%BF%86%EF%BC%88UNIX%E7%9A%84%E8%AF%9E%E7%94%9F%E8%AE%B0%E4%B8%8E%E5%8F%91%E5%B1%95%E5%8F%B2%EF%BC%8C%E8%B4%9D%E5%B0%94%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%9A%84%E5%B9%95%E5%90%8E%E6%95%85%E4%BA%8B%EF%BC%81%20%EF%BC%89%20(%E5%B8%83%E8%8E%B1%E6%81%A9%C2%B7W%C2%B7%E5%85%8B%E5%B0%BC%E6%B1%89%20%5B%E5%B8%83%E8%8E%B1%E6%81%A9%C2%B7W%C2%B7%E5%85%8B%E5%B0%BC%E6%B1%89%5D)%20(Z-Library).epub)
 
 ### Java生态
+- [Java并发编程的艺术](https://github.com/binarycoder777/perosonal-book/blob/main/book/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E8%89%BA%E6%9C%AF%20(Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E7%B3%BB%E5%88%97)%20(%E6%96%B9%E8%85%BE%E9%A3%9E%2C%E9%AD%8F%E9%B9%8F%2C%E7%A8%8B%E6%99%93%E6%98%8E%20%E8%91%97)%20.azw3)
+- [Java并发编程实战](https://github.com/binarycoder777/perosonal-book/blob/main/book/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98%20(%5B%E7%BE%8E%5DBrian%20Goetz%EF%BC%8C%E7%AD%89%20%E7%AB%A5%E4%BA%91%E5%85%B0%EF%BC%8C%E7%AD%89)%20.pdf)
 - [深入理解Java虚拟机：JVM高级特性与最佳实践](https://github.com/binarycoder777/perosonal-book/blob/main/book/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%20(%E5%91%A8%E5%BF%97%E6%98%8E)%20.epub)
 - [Spring技术内幕](https://github.com/binarycoder777/perosonal-book/blob/main/book/Spring%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%20(%E8%AE%A1%E6%96%87%E6%9F%AF).epub)
 - [MyBatis技术内幕](https://github.com/binarycoder777/perosonal-book/blob/main/book/MyBatis%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%20(%E5%BE%90%E9%83%A1%E6%98%8E%20%E7%BC%96%E8%91%97).epub)
+
+### 前端生态
+
+- [Vue.js设计与实现](https://github.com/binarycoder777/perosonal-book/blob/main/book/Vue.js%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%20(%E9%9C%8D%E6%98%A5%E9%98%B3%EF%BC%88HcySunYang))%20(Z-Library).pdf)
+- [深入解析CSS](https://github.com/binarycoder777/perosonal-book/blob/main/book/%E6%B7%B1%E5%85%A5%E8%A7%A3%E6%9E%90CSS%20(%E5%9F%BA%E6%80%9D%C2%B7%20J%C2%B7%E6%A0%BC%E5%85%B0%E7%89%B9)%20(Z-Library).pdf)
 
 ### 数据库
 
 - [高性能MySQL](https://github.com/binarycoder777/perosonal-book/blob/main/book/%E9%AB%98%E6%80%A7%E8%83%BDMySQL(%E7%AC%AC3%E7%89%88)%20(%20etc.)%20(Z-Library).pdf)
 - [MySQL技术内幕：InnoDB存储引擎](https://github.com/binarycoder777/perosonal-book/blob/main/book/MySQL%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%EF%BC%9AInnoDB%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E(%E7%AC%AC2%E7%89%88)%20(%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6)%20(%E5%A7%9C%E6%89%BF%E5%B0%A7)%20(Z-Library).epub")
-
+- [Redis开发与运维](https://github.com/binarycoder777/perosonal-book/blob/main/book/Redis%E5%BC%80%E5%8F%91%E4%B8%8E%E8%BF%90%E7%BB%B4%20(%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6)%20(%E4%BB%98%E7%A3%8A%20%20%E5%BC%A0%E7%9B%8A%E5%86%9B%20%5B%E4%BB%98%E7%A3%8A%20%20%E5%BC%A0%E7%9B%8A%E5%86%9B%5D)%20(Z-Library).pdf.zip)
+- [Redis设计与实现](https://github.com/binarycoder777/perosonal-book/blob/main/book/Redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%20(%E9%BB%84%E5%81%A5%E5%AE%8F)%20(Z-Library).epub)
 
 ### 分布式系统
 - [深度剖析Apache Dubbo核心技术内幕](https://github.com/binarycoder777/perosonal-book/blob/main/book/%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90Apache%20Dubbo%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%20(%E7%BF%9F%E9%99%86%E7%BB%AD%EF%BC%88%E5%8A%A0%E5%A4%9A%EF%BC%89).pdf)
