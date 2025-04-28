@@ -42,6 +42,7 @@
 ### 容器与云原生
 - [Docker源码分析 (容器技术系列)](https://github.com/binarycoder777/perosonal-book/blob/main/book/Docker%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%20(%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF%E7%B3%BB%E5%88%97)%20(%E5%AD%99%E5%AE%8F%E4%BA%AE).mobi)
 - [Kubernetes in Action中文版](https://github.com/binarycoder777/perosonal-book/blob/main/book/Kubernetes%20in%20Action%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9%E5%9B%BE%E4%B9%A6%EF%BC%89%20(%E4%B8%83%E7%89%9B%E5%AE%B9%E5%99%A8%E4%BA%91%E5%9B%A2%E9%98%9F)%20(Z-Library).pdf.zip)
+- [凤凰项目：一个IT运维的传奇故事](https://github.com/binarycoder777/perosonal-book/blob/main/book/%E5%87%A4%E5%87%B0%E9%A1%B9%E7%9B%AE%E4%B8%80%E4%B8%AAIT%E8%BF%90%E7%BB%B4%E7%9A%84%E4%BC%A0%E5%A5%87%E6%95%85%E4%BA%8B%20(%20etc.)%20(Z-Library).epub)
 
 ### 网络分析
 - [Wireshark网络分析就这么简单](https://github.com/binarycoder777/perosonal-book/blob/main/book/Wireshark%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90%E5%B0%B1%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%20(%E6%9E%97%E6%B2%9B%E6%BB%A1)%20.pdf)
