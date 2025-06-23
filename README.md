@@ -55,6 +55,7 @@
 - [Don't Make Me Think](https://github.com/binarycoder777/perosonal-book/blob/main/book/Dont%20Make%20Me%20Think%20A%20Common%20Sense%20Approach%20to%20Web%20Usability%2C%202nd%20Edition%20(Steve%20Krug)%20.pdf)
 - [凤凰架构：构建可靠的大型分布式系统](https://github.com/binarycoder777/perosonal-book/blob/main/book/%E5%87%A4%E5%87%B0%E6%9E%B6%E6%9E%84%EF%BC%9A%E6%9E%84%E5%BB%BA%E5%8F%AF%E9%9D%A0%E7%9A%84%E5%A4%A7%E5%9E%8B%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%20(%E5%91%A8%E5%BF%97%E6%98%8E)%20.pdf)
 
+- [数据中台：让数据用起来](https://github.com/binarycoder777/perosonal-book/blob/main/book/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%8F%B0%EF%BC%9A%E8%AE%A9%E6%95%B0%E6%8D%AE%E7%94%A8%E8%B5%B7%E6%9D%A5%20(%E4%BB%98%E7%99%BB%E5%9D%A1)%20(Z-Library).pdf)
 ## 职业发展与个人成长
 
 ### 职业规划
